@@ -1,0 +1,142 @@
+
+.main{
+    background-color: #ffffff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    width: 400px;
+    height: 600px;
+    background-color: #202020;
+    border-radius: 10px;
+    margin-top: 60px;
+    box-shadow: 5px 5px 0px whi;
+}
+
+.profilepic {
+    
+    display: block;
+    margin: auto;
+    height: 150px;
+    width: 150px;
+    border-radius: 200px;
+    
+
+}
+.profilepic{
+    margin-top:25px;
+}
+
+.name {
+    display: block;
+    margin-left: 40px;
+    margin-top: 15px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-shadow: -3px 3px 0px rgba(0, 0, 0, 0.419);
+}
+
+.description {
+    color: white;
+    display: block;
+    margin-left: 35px;
+    margin-top: -10px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    text-shadow: -2px 1px 0px rgba(0, 0, 0, 0.419);
+    
+}
+
+.btn{
+   
+    display: flex;
+flex-direction: column;
+padding-left: 160px;
+padding-right: 70px;
+
+
+
+}
+
+.linkedin{
+margin-top: 10px;
+outline: none;
+height: 50px;
+width: 350px;
+margin-left: -135px;
+border-radius: 10px;
+border: none;
+cursor: pointer;
+box-shadow: -1px 3px 0px #949494;
+transition: all 0.5s ease;
+
+
+
+
+
+}
+
+.linkedin:hover{
+    background-color: #dbc6c6;
+}
+
+.github{
+    margin-top: 10px;
+    outline: none;
+    height: 50px;
+width: 350px;
+margin-left: -135px;
+border-radius: 10px;
+border: none;
+cursor: pointer;
+box-shadow: -1px 3px 0px #949494;
+transition: all 0.5s ease;
+    
+
+}
+.github:hover{
+    background-color: #dbc6c6;
+
+}
+
+.youtube{
+    margin-top: 10px;
+    outline: none;
+    height: 50px;
+width: 350px;
+margin-left: -135px;
+border-radius: 10px;
+border: none;
+cursor: pointer;
+box-shadow: -1px 3px 0px #949494;
+transition: all 0.5s ease;
+}
+
+.youtube:hover{
+    background-color: #dbc6c6;
+
+}
+
+.instagram{
+    margin-top: 10px;
+    outline: none;
+    height: 50px;
+width: 350px;
+margin-left: -135px;
+border-radius: 10px;
+border: none;
+cursor: pointer;
+box-shadow: -1px 3px 0px #949494;
+transition: all 0.5s ease;
+
+}
+
+.instagram:hover{
+    background-color: #dbc6c6;
+
+}
